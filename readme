@@ -1,1 +1,1 @@
-npx tsc --init
+npx tsc --init: dùng để khởi tạo file cấu hình TypeScript (tsconfig.json) trong thư mục hiện tại.
